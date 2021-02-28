@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToolingApp</string>
+    <string name="tools">Layover Kit</string>
+    <string name="ckScrew">1.Screwdriver</string>
+    <string name="ckGrip">2.Grip</string>
+    <string name="ckRachet">3.Rachet</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://kymthang.github.io/.well-known/assetlinks.json\" }]</string>
+</resources>

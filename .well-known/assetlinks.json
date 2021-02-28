@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.toolingapp",
+    "sha256_cert_fingerprints":
+    ["B6:3D:03:EE:38:67:7D:02:04:54:56:A8:6B:DD:92:0F:18:3D:35:09:A0:80:B5:92:33:94:12:E1:1C:88:5C:18"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://kymthang.github.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.toolingapp",
+    "sha256_cert_fingerprints":
+    ["B6:3D:03:EE:38:67:7D:02:04:54:56:A8:6B:DD:92:0F:18:3D:35:09:A0:80:B5:92:33:94:12:E1:1C:88:5C:18"]
+  }
+}]
